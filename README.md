@@ -3,5 +3,5 @@ Complete step by step reinforcement learning tutorials. Below you can find the t
 1. Dynamic Programming
 2. Monte Carlo
 3. Temporal Difference (TD)
-4. Q-Learning
+4. Convert Continuous Space to Discrete Space
 5. SOON WILL BE UPDATED
