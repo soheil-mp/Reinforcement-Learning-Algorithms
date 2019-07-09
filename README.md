@@ -4,4 +4,5 @@ Complete step by step reinforcement learning tutorials. Below you can find the t
 2. Monte Carlo
 3. Temporal Difference (TD)
 4. Convert Continuous Space to Discrete Space
-5. SOON WILL BE UPDATED
+5. Deep Q-Network
+6. SOON WILL BE UPDATED
