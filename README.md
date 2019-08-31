@@ -5,4 +5,11 @@ Complete step by step reinforcement learning tutorials. Below you can find the t
 3. Temporal Difference (TD)
 4. Convert Continuous Space to Discrete Space
 5. Deep Q-Network
-6. SOON WILL BE UPDATED
+6. Policy-Based Methods
+7. REINFORCE- Cartpole
+8. REINFORCE and PPO - Pong
+9. DDPG - Pendulum
+10. DDPG - Bipedal
+11. Deep RL for Finance - 1
+12. Deep RL for Finance - 2
+13. AlphaZero - Tic Tak Toe
